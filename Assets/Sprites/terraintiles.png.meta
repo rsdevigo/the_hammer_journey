@@ -1,0 +1,4331 @@
+fileFormatVersion: 2
+guid: 6158c772f5152ff448fb2892f91f97b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3078562815437526324
+    second: terraintiles_0
+  - first:
+      213: 4204309030693054510
+    second: terraintiles_1
+  - first:
+      213: 8112434682013729781
+    second: terraintiles_2
+  - first:
+      213: 8180737258897545427
+    second: terraintiles_3
+  - first:
+      213: -2932728458041147423
+    second: terraintiles_4
+  - first:
+      213: 3656988171591026639
+    second: terraintiles_5
+  - first:
+      213: -6593298318285984627
+    second: terraintiles_6
+  - first:
+      213: 4271390834948253409
+    second: terraintiles_7
+  - first:
+      213: -1506627975448976728
+    second: terraintiles_8
+  - first:
+      213: -5296912213035018269
+    second: terraintiles_9
+  - first:
+      213: -1144727547008598474
+    second: terraintiles_10
+  - first:
+      213: 5744270088246383148
+    second: terraintiles_11
+  - first:
+      213: 2042261207391983192
+    second: terraintiles_12
+  - first:
+      213: 429145462081735632
+    second: terraintiles_13
+  - first:
+      213: -1634099954531081730
+    second: terraintiles_14
+  - first:
+      213: -8191193402594943250
+    second: terraintiles_15
+  - first:
+      213: 6123045246996620406
+    second: terraintiles_16
+  - first:
+      213: 2769295947876319450
+    second: terraintiles_17
+  - first:
+      213: -3478749985867705227
+    second: terraintiles_18
+  - first:
+      213: 4674115989616102134
+    second: terraintiles_19
+  - first:
+      213: -6375086681522812949
+    second: terraintiles_20
+  - first:
+      213: -3553436601931398705
+    second: terraintiles_21
+  - first:
+      213: 6895593781074952985
+    second: terraintiles_22
+  - first:
+      213: 8397678911219340526
+    second: terraintiles_23
+  - first:
+      213: 4665971786774536539
+    second: terraintiles_24
+  - first:
+      213: -221879216999167378
+    second: terraintiles_25
+  - first:
+      213: -3495101813817083225
+    second: terraintiles_26
+  - first:
+      213: 4196026784390645992
+    second: terraintiles_27
+  - first:
+      213: 7557730574045862582
+    second: terraintiles_28
+  - first:
+      213: 2494187141603023698
+    second: terraintiles_29
+  - first:
+      213: 7621719669368124540
+    second: terraintiles_30
+  - first:
+      213: 6638921690328058117
+    second: terraintiles_31
+  - first:
+      213: -6949240073355034343
+    second: terraintiles_32
+  - first:
+      213: -6738297012245784655
+    second: terraintiles_33
+  - first:
+      213: -663162387925192773
+    second: terraintiles_34
+  - first:
+      213: 740584276539671218
+    second: terraintiles_35
+  - first:
+      213: 4602883367577577290
+    second: terraintiles_36
+  - first:
+      213: 9108877337610992662
+    second: terraintiles_37
+  - first:
+      213: -8807978686294885395
+    second: terraintiles_38
+  - first:
+      213: 2127305605795930586
+    second: terraintiles_39
+  - first:
+      213: 8747133862552105084
+    second: terraintiles_40
+  - first:
+      213: 2283326233431849475
+    second: terraintiles_41
+  - first:
+      213: -7118978573644832602
+    second: terraintiles_42
+  - first:
+      213: -4230147424419791079
+    second: terraintiles_43
+  - first:
+      213: -5255088107996721137
+    second: terraintiles_44
+  - first:
+      213: 5907373753202497040
+    second: terraintiles_45
+  - first:
+      213: 3384285733838321481
+    second: terraintiles_46
+  - first:
+      213: -8507479100586162925
+    second: terraintiles_47
+  - first:
+      213: 3103889629430629259
+    second: terraintiles_48
+  - first:
+      213: 622792296563359949
+    second: terraintiles_49
+  - first:
+      213: 3420956178633998960
+    second: terraintiles_50
+  - first:
+      213: -3670964107361232528
+    second: terraintiles_51
+  - first:
+      213: 7852642599483193672
+    second: terraintiles_52
+  - first:
+      213: -8870055242810501084
+    second: terraintiles_53
+  - first:
+      213: -2918277172078977596
+    second: terraintiles_54
+  - first:
+      213: -8824339504812049034
+    second: terraintiles_55
+  - first:
+      213: -6488673369254065661
+    second: terraintiles_56
+  - first:
+      213: 3747915147122979086
+    second: terraintiles_57
+  - first:
+      213: -458040676272532503
+    second: terraintiles_58
+  - first:
+      213: 8334778228987988609
+    second: terraintiles_59
+  - first:
+      213: 5645727798207363712
+    second: terraintiles_60
+  - first:
+      213: 5813595734625731889
+    second: terraintiles_61
+  - first:
+      213: -2759970531221896899
+    second: terraintiles_62
+  - first:
+      213: -398591609557771253
+    second: terraintiles_63
+  - first:
+      213: -873968946710923081
+    second: terraintiles_64
+  - first:
+      213: -3000513405936631835
+    second: terraintiles_65
+  - first:
+      213: 6159309735294449360
+    second: terraintiles_66
+  - first:
+      213: 4793081654203598782
+    second: terraintiles_67
+  - first:
+      213: -4983553945926125650
+    second: terraintiles_68
+  - first:
+      213: 6980076427295554207
+    second: terraintiles_69
+  - first:
+      213: 421763527793722492
+    second: terraintiles_70
+  - first:
+      213: 4599483670832698172
+    second: terraintiles_71
+  - first:
+      213: 7829541673944017548
+    second: terraintiles_72
+  - first:
+      213: -7564270403360221557
+    second: terraintiles_73
+  - first:
+      213: -6172137236023572628
+    second: terraintiles_74
+  - first:
+      213: -2478521965186664546
+    second: terraintiles_75
+  - first:
+      213: 1973108280459161956
+    second: terraintiles_76
+  - first:
+      213: 4183773578051206656
+    second: terraintiles_77
+  - first:
+      213: -5019198106189806995
+    second: terraintiles_78
+  - first:
+      213: -4186876261280523776
+    second: terraintiles_79
+  - first:
+      213: -2080140051234177517
+    second: terraintiles_80
+  - first:
+      213: -1634132895765146794
+    second: terraintiles_81
+  - first:
+      213: -6529987872673827688
+    second: terraintiles_82
+  - first:
+      213: 3661848878589142391
+    second: terraintiles_83
+  - first:
+      213: 1988492934996511142
+    second: terraintiles_84
+  - first:
+      213: -113594887699091928
+    second: terraintiles_85
+  - first:
+      213: -5668935391131540962
+    second: terraintiles_86
+  - first:
+      213: 1859264462091645863
+    second: terraintiles_87
+  - first:
+      213: -6488728247277191352
+    second: terraintiles_88
+  - first:
+      213: 5315659596428022371
+    second: terraintiles_89
+  - first:
+      213: 5362339416476344923
+    second: terraintiles_90
+  - first:
+      213: -5165109998474592200
+    second: terraintiles_91
+  - first:
+      213: -3330452428380091760
+    second: terraintiles_92
+  - first:
+      213: -819042446291605407
+    second: terraintiles_93
+  - first:
+      213: -7351742552768111877
+    second: terraintiles_94
+  - first:
+      213: -3595121767396629722
+    second: terraintiles_95
+  - first:
+      213: 5229999270516262007
+    second: terraintiles_96
+  - first:
+      213: -970325919863985616
+    second: terraintiles_97
+  - first:
+      213: -7318669667386588890
+    second: terraintiles_98
+  - first:
+      213: -2061805819378246861
+    second: terraintiles_99
+  - first:
+      213: -4916837936638474271
+    second: terraintiles_100
+  - first:
+      213: 6953365621561092957
+    second: terraintiles_101
+  - first:
+      213: -4965250399934545607
+    second: terraintiles_102
+  - first:
+      213: 2310479983099662124
+    second: terraintiles_103
+  - first:
+      213: -6238791119520142638
+    second: terraintiles_104
+  - first:
+      213: -7006536992777822849
+    second: terraintiles_105
+  - first:
+      213: 8395218864898227849
+    second: terraintiles_106
+  - first:
+      213: -3519477513979325810
+    second: terraintiles_107
+  - first:
+      213: 2638552940250551138
+    second: terraintiles_108
+  - first:
+      213: -7474392335873458150
+    second: terraintiles_109
+  - first:
+      213: -8646892804287190030
+    second: terraintiles_110
+  - first:
+      213: 8759477422920989751
+    second: terraintiles_111
+  - first:
+      213: 6426319695291345205
+    second: terraintiles_112
+  - first:
+      213: 4151155525614351033
+    second: terraintiles_113
+  - first:
+      213: -7884936411879839648
+    second: terraintiles_114
+  - first:
+      213: 7175105163138960422
+    second: terraintiles_115
+  - first:
+      213: 5296549851253294283
+    second: terraintiles_116
+  - first:
+      213: -4046520442159583970
+    second: terraintiles_117
+  - first:
+      213: -2197364692701534339
+    second: terraintiles_118
+  - first:
+      213: 1751220356089835933
+    second: terraintiles_119
+  - first:
+      213: 5536312200146422436
+    second: terraintiles_120
+  - first:
+      213: 1836327492729800588
+    second: terraintiles_121
+  - first:
+      213: 6634003750679786408
+    second: terraintiles_122
+  - first:
+      213: 5743630170096311964
+    second: terraintiles_123
+  - first:
+      213: -2660589196459366623
+    second: terraintiles_124
+  - first:
+      213: 6038852903433520534
+    second: terraintiles_125
+  - first:
+      213: 9199006766262925581
+    second: terraintiles_126
+  - first:
+      213: -6734583008641150554
+    second: terraintiles_127
+  - first:
+      213: -8222557589184317417
+    second: terraintiles_128
+  - first:
+      213: -6974226731610238686
+    second: terraintiles_129
+  - first:
+      213: 610471244718086658
+    second: terraintiles_130
+  - first:
+      213: -7411414203910948754
+    second: terraintiles_131
+  - first:
+      213: 4334942507426258070
+    second: terraintiles_132
+  - first:
+      213: -1655458903278820150
+    second: terraintiles_133
+  - first:
+      213: 386528618383863290
+    second: terraintiles_134
+  - first:
+      213: -6749740736279157089
+    second: terraintiles_135
+  - first:
+      213: 2102648144850552746
+    second: terraintiles_136
+  - first:
+      213: -9023544573434589759
+    second: terraintiles_137
+  - first:
+      213: 3260245008442978558
+    second: terraintiles_138
+  - first:
+      213: 405293228806259563
+    second: terraintiles_139
+  - first:
+      213: -8926868503085207210
+    second: terraintiles_140
+  - first:
+      213: -3951464087523925359
+    second: terraintiles_141
+  - first:
+      213: 5673234329592672657
+    second: terraintiles_142
+  - first:
+      213: 3429363980641917048
+    second: terraintiles_143
+  - first:
+      213: 6784166692939472498
+    second: terraintiles_144
+  - first:
+      213: -675225551894979107
+    second: terraintiles_145
+  - first:
+      213: 8886370536274516254
+    second: terraintiles_146
+  - first:
+      213: 3883982950617611176
+    second: terraintiles_147
+  - first:
+      213: -3952602579904016623
+    second: terraintiles_148
+  - first:
+      213: 7491388808607718847
+    second: terraintiles_149
+  - first:
+      213: 3165672287300544610
+    second: terraintiles_150
+  - first:
+      213: -8539118000751946956
+    second: terraintiles_151
+  - first:
+      213: 7729670425781199930
+    second: terraintiles_152
+  - first:
+      213: -3158093422887295509
+    second: terraintiles_153
+  - first:
+      213: 2771285636387769258
+    second: terraintiles_154
+  - first:
+      213: -4188581246658642408
+    second: terraintiles_155
+  - first:
+      213: -8024098654805765338
+    second: terraintiles_156
+  - first:
+      213: 6446094108289455652
+    second: terraintiles_157
+  - first:
+      213: -7862919465119411629
+    second: terraintiles_158
+  - first:
+      213: 3045323353879645823
+    second: terraintiles_159
+  - first:
+      213: -3397513190587298093
+    second: terraintiles_160
+  - first:
+      213: -3825188955092486183
+    second: terraintiles_161
+  - first:
+      213: 2041541244382687989
+    second: terraintiles_162
+  - first:
+      213: -4267261670857777159
+    second: terraintiles_163
+  - first:
+      213: 1389596092518496636
+    second: terraintiles_164
+  - first:
+      213: 4138610739867096292
+    second: terraintiles_165
+  - first:
+      213: -3710513306808401480
+    second: terraintiles_166
+  - first:
+      213: 7035043076672062960
+    second: terraintiles_167
+  - first:
+      213: -9030535973748147519
+    second: terraintiles_168
+  - first:
+      213: 2567565946486934892
+    second: terraintiles_169
+  - first:
+      213: 3895549026036311880
+    second: terraintiles_170
+  - first:
+      213: -3194830560160347290
+    second: terraintiles_171
+  - first:
+      213: -1392732317866450320
+    second: terraintiles_172
+  - first:
+      213: -952383184573845600
+    second: terraintiles_173
+  - first:
+      213: -1841711291738608053
+    second: terraintiles_174
+  - first:
+      213: 2272573454173101813
+    second: terraintiles_175
+  - first:
+      213: 8299434310119271137
+    second: terraintiles_176
+  - first:
+      213: -3983202734545147803
+    second: terraintiles_177
+  - first:
+      213: -6585190156472685238
+    second: terraintiles_178
+  - first:
+      213: -8162567575705447152
+    second: terraintiles_179
+  - first:
+      213: 2085290523074183970
+    second: terraintiles_180
+  - first:
+      213: 337523777140321392
+    second: terraintiles_181
+  - first:
+      213: -3651866653873827317
+    second: terraintiles_182
+  - first:
+      213: 4216838520376782412
+    second: terraintiles_183
+  - first:
+      213: 360964663981405556
+    second: terraintiles_184
+  - first:
+      213: -5394494307960274459
+    second: terraintiles_185
+  - first:
+      213: -6271388174619576894
+    second: terraintiles_186
+  - first:
+      213: 1241687797085271691
+    second: terraintiles_187
+  - first:
+      213: 6565174477017705443
+    second: terraintiles_188
+  - first:
+      213: -724346479180563295
+    second: terraintiles_189
+  - first:
+      213: -183404523129747623
+    second: terraintiles_190
+  - first:
+      213: -1820897484775300557
+    second: terraintiles_191
+  - first:
+      213: -8930780587738959887
+    second: terraintiles_192
+  - first:
+      213: 7974340466646656299
+    second: terraintiles_193
+  - first:
+      213: -899485165555629180
+    second: terraintiles_194
+  - first:
+      213: -2157516153461140761
+    second: terraintiles_195
+  - first:
+      213: -4372631354102998238
+    second: terraintiles_196
+  - first:
+      213: -1073262294338841288
+    second: terraintiles_197
+  - first:
+      213: -8056395805454250175
+    second: terraintiles_198
+  - first:
+      213: 3694640368289760234
+    second: terraintiles_199
+  - first:
+      213: -3143853230920373794
+    second: terraintiles_200
+  - first:
+      213: 6256634043920551580
+    second: terraintiles_201
+  - first:
+      213: -5785376477216198985
+    second: terraintiles_202
+  - first:
+      213: 6898453787899822738
+    second: terraintiles_203
+  - first:
+      213: 9152621775418397890
+    second: terraintiles_204
+  - first:
+      213: -7757084301491085872
+    second: terraintiles_205
+  - first:
+      213: -5472938940854376331
+    second: terraintiles_206
+  - first:
+      213: -2543810381639665946
+    second: terraintiles_207
+  - first:
+      213: -2206543985711530186
+    second: terraintiles_208
+  - first:
+      213: -2551885781251396548
+    second: terraintiles_209
+  - first:
+      213: -9208893556555090468
+    second: terraintiles_210
+  - first:
+      213: -7499782447727864009
+    second: terraintiles_211
+  - first:
+      213: 7485860827679176058
+    second: terraintiles_212
+  - first:
+      213: 5788941575119251736
+    second: terraintiles_213
+  - first:
+      213: -5535077497754909521
+    second: terraintiles_214
+  - first:
+      213: -6295643514288157925
+    second: terraintiles_215
+  - first:
+      213: -6961406573368498131
+    second: terraintiles_216
+  - first:
+      213: 7308624983635676188
+    second: terraintiles_217
+  - first:
+      213: -5159737761414334841
+    second: terraintiles_218
+  - first:
+      213: 7500965811751455866
+    second: terraintiles_219
+  - first:
+      213: -8071109563468186248
+    second: terraintiles_220
+  - first:
+      213: -1681377261853224660
+    second: terraintiles_221
+  - first:
+      213: 7341203976224356674
+    second: terraintiles_222
+  - first:
+      213: 59015892418723748
+    second: terraintiles_223
+  - first:
+      213: -889057797747219813
+    second: terraintiles_224
+  - first:
+      213: 4870466847634618947
+    second: terraintiles_225
+  - first:
+      213: -775733004811556323
+    second: terraintiles_226
+  - first:
+      213: -7633111313765469028
+    second: terraintiles_227
+  - first:
+      213: 6185904429386886480
+    second: terraintiles_228
+  - first:
+      213: -4564814171332001352
+    second: terraintiles_229
+  - first:
+      213: -7734455369543073780
+    second: terraintiles_230
+  - first:
+      213: 3035165398199577850
+    second: terraintiles_231
+  - first:
+      213: -5281927150518940716
+    second: terraintiles_232
+  - first:
+      213: 7582528108710483797
+    second: terraintiles_233
+  - first:
+      213: -2459907411411954828
+    second: terraintiles_234
+  - first:
+      213: 7844819149539612259
+    second: terraintiles_235
+  - first:
+      213: 2472328290406673066
+    second: terraintiles_236
+  - first:
+      213: 2559717264493331113
+    second: terraintiles_237
+  - first:
+      213: -8338041822264421697
+    second: terraintiles_238
+  - first:
+      213: -3892184113805896033
+    second: terraintiles_239
+  - first:
+      213: 2415094480935684487
+    second: terraintiles_240
+  - first:
+      213: 2140761076822820723
+    second: terraintiles_241
+  - first:
+      213: -2280581531121867610
+    second: terraintiles_242
+  - first:
+      213: -3684389357128912675
+    second: terraintiles_243
+  - first:
+      213: -1994315970022278917
+    second: terraintiles_244
+  - first:
+      213: 5729931125519127743
+    second: terraintiles_245
+  - first:
+      213: -4253205339774534038
+    second: terraintiles_246
+  - first:
+      213: 7351672892339533832
+    second: terraintiles_247
+  - first:
+      213: 6392861101318072994
+    second: terraintiles_248
+  - first:
+      213: -4953818542396759300
+    second: terraintiles_249
+  - first:
+      213: -4365582296711082551
+    second: terraintiles_250
+  - first:
+      213: 5107664673432080189
+    second: terraintiles_251
+  - first:
+      213: 1655292358368852149
+    second: terraintiles_252
+  - first:
+      213: 1516755550744362493
+    second: terraintiles_253
+  - first:
+      213: 1446828951784078136
+    second: terraintiles_254
+  - first:
+      213: -6215145335206568325
+    second: terraintiles_255
+  - first:
+      213: 692835942030117832
+    second: terraintiles_256
+  - first:
+      213: 8729900031030719896
+    second: terraintiles_257
+  - first:
+      213: -6046206404872694740
+    second: terraintiles_258
+  - first:
+      213: -4814487130504231780
+    second: terraintiles_259
+  - first:
+      213: -3456242010933165661
+    second: terraintiles_260
+  - first:
+      213: 6884166297298611072
+    second: terraintiles_261
+  - first:
+      213: -1290559163996880988
+    second: terraintiles_262
+  - first:
+      213: 7705015408418679527
+    second: terraintiles_263
+  - first:
+      213: -5372826570192842843
+    second: terraintiles_264
+  - first:
+      213: -8623299874053491018
+    second: terraintiles_265
+  - first:
+      213: 31505113813965421
+    second: terraintiles_266
+  - first:
+      213: 3000057147418375640
+    second: terraintiles_267
+  - first:
+      213: -9124197558585752983
+    second: terraintiles_268
+  - first:
+      213: -6121202515667365298
+    second: terraintiles_269
+  - first:
+      213: 6448888811828245240
+    second: terraintiles_270
+  - first:
+      213: 8699542519602936439
+    second: terraintiles_271
+  - first:
+      213: -4334438215440386578
+    second: terraintiles_272
+  - first:
+      213: -7323840987231602925
+    second: terraintiles_273
+  - first:
+      213: 2868754848194153636
+    second: terraintiles_274
+  - first:
+      213: 3687651298125612161
+    second: terraintiles_275
+  - first:
+      213: 7596113966204332839
+    second: terraintiles_276
+  - first:
+      213: 7304291758765105921
+    second: terraintiles_277
+  - first:
+      213: -6817950480569851882
+    second: terraintiles_278
+  - first:
+      213: 1974151470803839471
+    second: terraintiles_279
+  - first:
+      213: -4174120916143261878
+    second: terraintiles_280
+  - first:
+      213: -8383681525439836306
+    second: terraintiles_281
+  - first:
+      213: 7961757916430703576
+    second: terraintiles_282
+  - first:
+      213: -4295341252602799061
+    second: terraintiles_283
+  - first:
+      213: 553083615437723094
+    second: terraintiles_284
+  - first:
+      213: 2437291729003687274
+    second: terraintiles_285
+  - first:
+      213: -2884788894669283143
+    second: terraintiles_286
+  - first:
+      213: 812916631114293859
+    second: terraintiles_287
+  - first:
+      213: -2181411941293267014
+    second: terraintiles_288
+  - first:
+      213: -4486680275947218193
+    second: terraintiles_289
+  - first:
+      213: -6809892092738086655
+    second: terraintiles_290
+  - first:
+      213: 8818630580750733284
+    second: terraintiles_291
+  - first:
+      213: -5756523307598486035
+    second: terraintiles_292
+  - first:
+      213: -2092910996455815335
+    second: terraintiles_293
+  - first:
+      213: 5613307275099332163
+    second: terraintiles_294
+  - first:
+      213: -9180552655204064757
+    second: terraintiles_295
+  - first:
+      213: -4683758064875678544
+    second: terraintiles_296
+  - first:
+      213: 2090483547219223230
+    second: terraintiles_0
+  - first:
+      213: -7701866667160621540
+    second: terraintiles_1
+  - first:
+      213: 6168741245862159104
+    second: terraintiles_2
+  - first:
+      213: -7481984128439015099
+    second: terraintiles_3
+  - first:
+      213: -4744729833271671766
+    second: terraintiles_4
+  - first:
+      213: -5124792873324837874
+    second: terraintiles_5
+  - first:
+      213: -7868787069538727506
+    second: terraintiles_6
+  - first:
+      213: 2010209663224202023
+    second: terraintiles_7
+  - first:
+      213: -4892749091162402607
+    second: terraintiles_8
+  - first:
+      213: -8398873224792277685
+    second: terraintiles_9
+  - first:
+      213: 7276644271807892113
+    second: terraintiles_10
+  - first:
+      213: 5079920656571419504
+    second: terraintiles_11
+  - first:
+      213: 1366764601411513869
+    second: terraintiles_12
+  - first:
+      213: -1226995890491776309
+    second: terraintiles_13
+  - first:
+      213: 6968758464186720401
+    second: terraintiles_14
+  - first:
+      213: -9073461722570699560
+    second: terraintiles_15
+  - first:
+      213: -3702782456425870370
+    second: terraintiles_16
+  - first:
+      213: -2127663926142510691
+    second: terraintiles_17
+  - first:
+      213: 509430789430918435
+    second: terraintiles_18
+  - first:
+      213: -3880807893791689426
+    second: terraintiles_19
+  - first:
+      213: -983775999182609575
+    second: terraintiles_20
+  - first:
+      213: 7522577681181978549
+    second: terraintiles_21
+  - first:
+      213: -6370241911364989347
+    second: terraintiles_22
+  - first:
+      213: 1905360733746489670
+    second: terraintiles_23
+  - first:
+      213: 8546938298170248841
+    second: terraintiles_24
+  - first:
+      213: -3906704734589294541
+    second: terraintiles_25
+  - first:
+      213: -823974463746171073
+    second: terraintiles_26
+  - first:
+      213: -8582816720351585856
+    second: terraintiles_27
+  - first:
+      213: -3095266054970288368
+    second: terraintiles_28
+  - first:
+      213: -3404722580230657366
+    second: terraintiles_29
+  - first:
+      213: 5849121150372353927
+    second: terraintiles_30
+  - first:
+      213: -8465682506571154178
+    second: terraintiles_31
+  - first:
+      213: -8414615585645070259
+    second: terraintiles_32
+  - first:
+      213: -7865471417566184704
+    second: terraintiles_33
+  - first:
+      213: -6192554980360980886
+    second: terraintiles_34
+  - first:
+      213: 2889660284913573042
+    second: terraintiles_35
+  - first:
+      213: 4799334442122816141
+    second: terraintiles_36
+  - first:
+      213: -8111161344712522686
+    second: terraintiles_37
+  - first:
+      213: -4996185142621807206
+    second: terraintiles_38
+  - first:
+      213: -5833910025728180240
+    second: terraintiles_39
+  - first:
+      213: -7922917929004223898
+    second: terraintiles_40
+  - first:
+      213: 1467210518629386964
+    second: terraintiles_41
+  - first:
+      213: 3185617574536727068
+    second: terraintiles_42
+  - first:
+      213: 5089880256297553182
+    second: terraintiles_43
+  - first:
+      213: 3234798310169773041
+    second: terraintiles_44
+  - first:
+      213: 6643880313204323076
+    second: terraintiles_45
+  - first:
+      213: 958734348968555731
+    second: terraintiles_46
+  - first:
+      213: -1409032827435482994
+    second: terraintiles_47
+  - first:
+      213: 3401320663870739542
+    second: terraintiles_48
+  - first:
+      213: 5698542305887778223
+    second: terraintiles_49
+  - first:
+      213: -6041163235109699650
+    second: terraintiles_50
+  - first:
+      213: 1855311520233181122
+    second: terraintiles_51
+  - first:
+      213: 3418994853883422732
+    second: terraintiles_52
+  - first:
+      213: 999957282713225608
+    second: terraintiles_53
+  - first:
+      213: 3756093293731138447
+    second: terraintiles_54
+  - first:
+      213: -1333815067884334910
+    second: terraintiles_55
+  - first:
+      213: 5039007231790056136
+    second: terraintiles_56
+  - first:
+      213: -681552720415117116
+    second: terraintiles_57
+  - first:
+      213: -1189581447511348748
+    second: terraintiles_58
+  - first:
+      213: -1556142889155303936
+    second: terraintiles_59
+  - first:
+      213: 3089022456377848212
+    second: terraintiles_60
+  - first:
+      213: -584597550985431780
+    second: terraintiles_61
+  - first:
+      213: 5667326779707216746
+    second: terraintiles_62
+  - first:
+      213: 6517473476581554650
+    second: terraintiles_63
+  - first:
+      213: -7889739850809937646
+    second: terraintiles_64
+  - first:
+      213: -7506421155675224591
+    second: terraintiles_65
+  - first:
+      213: -8646599491526579356
+    second: terraintiles_66
+  - first:
+      213: 4571508669514387323
+    second: terraintiles_67
+  - first:
+      213: -6308427893478105630
+    second: terraintiles_68
+  - first:
+      213: -6141831234739062954
+    second: terraintiles_69
+  - first:
+      213: 3294150437959415572
+    second: terraintiles_70
+  - first:
+      213: -8641120667956433564
+    second: terraintiles_71
+  - first:
+      213: -1749363725389674269
+    second: terraintiles_72
+  - first:
+      213: -8231872233025647498
+    second: terraintiles_73
+  - first:
+      213: -5816307667443294741
+    second: terraintiles_74
+  - first:
+      213: -4108672486195567590
+    second: terraintiles_75
+  - first:
+      213: 5482464880902689699
+    second: terraintiles_76
+  - first:
+      213: 1794036243122612135
+    second: terraintiles_77
+  - first:
+      213: 2962135120974879546
+    second: terraintiles_78
+  - first:
+      213: -2662479592788299789
+    second: terraintiles_79
+  - first:
+      213: 1109535873901082748
+    second: terraintiles_80
+  - first:
+      213: -6546432435312274610
+    second: terraintiles_81
+  - first:
+      213: 6747988925140549667
+    second: terraintiles_82
+  - first:
+      213: -8462996357829197505
+    second: terraintiles_83
+  - first:
+      213: -5811708913965693526
+    second: terraintiles_84
+  - first:
+      213: 1031818675380385268
+    second: terraintiles_85
+  - first:
+      213: -4166492603691957546
+    second: terraintiles_86
+  - first:
+      213: 8571214755881043512
+    second: terraintiles_87
+  - first:
+      213: -4232256107256974502
+    second: terraintiles_88
+  - first:
+      213: 2873464744112558896
+    second: terraintiles_89
+  - first:
+      213: 4745721309513804147
+    second: terraintiles_90
+  - first:
+      213: -7454799227093486574
+    second: terraintiles_91
+  - first:
+      213: -905801556688025199
+    second: terraintiles_92
+  - first:
+      213: 7587070838471123237
+    second: terraintiles_93
+  - first:
+      213: 7203287580137506922
+    second: terraintiles_94
+  - first:
+      213: 7762630962184514861
+    second: terraintiles_95
+  - first:
+      213: 9002558739568888753
+    second: terraintiles_96
+  - first:
+      213: 6889860093584600254
+    second: terraintiles_97
+  - first:
+      213: 8329462176255073300
+    second: terraintiles_98
+  - first:
+      213: -1462964549009513520
+    second: terraintiles_99
+  - first:
+      213: -5234792478462981894
+    second: terraintiles_100
+  - first:
+      213: -2970220771890968580
+    second: terraintiles_101
+  - first:
+      213: 3922599107820705785
+    second: terraintiles_102
+  - first:
+      213: -4765146929450023642
+    second: terraintiles_103
+  - first:
+      213: 6166561202164153431
+    second: terraintiles_104
+  - first:
+      213: -851606046656613006
+    second: terraintiles_105
+  - first:
+      213: -8601233115530528421
+    second: terraintiles_106
+  - first:
+      213: 6692808543619332111
+    second: terraintiles_107
+  - first:
+      213: 7825941343528979241
+    second: terraintiles_108
+  - first:
+      213: 2832748943255977502
+    second: terraintiles_109
+  - first:
+      213: 5854118920942612298
+    second: terraintiles_110
+  - first:
+      213: 4730667009423961187
+    second: terraintiles_111
+  - first:
+      213: -7314516958243801575
+    second: terraintiles_112
+  - first:
+      213: 3145872506415635222
+    second: terraintiles_113
+  - first:
+      213: -1381050613309104419
+    second: terraintiles_114
+  - first:
+      213: -1365807722790959208
+    second: terraintiles_115
+  - first:
+      213: 5345309559876301728
+    second: terraintiles_116
+  - first:
+      213: -160662488395368307
+    second: terraintiles_117
+  - first:
+      213: -7110557427459832987
+    second: terraintiles_118
+  - first:
+      213: -392606897316980836
+    second: terraintiles_119
+  - first:
+      213: -7733905942090313202
+    second: terraintiles_120
+  - first:
+      213: 529395919395799387
+    second: terraintiles_121
+  - first:
+      213: -3333619490566287286
+    second: terraintiles_122
+  - first:
+      213: 2827555404934778291
+    second: terraintiles_123
+  - first:
+      213: -6798927981758727717
+    second: terraintiles_124
+  - first:
+      213: 2619585439943000267
+    second: terraintiles_125
+  - first:
+      213: -6289795107238187840
+    second: terraintiles_126
+  - first:
+      213: -2177737408034978431
+    second: terraintiles_127
+  - first:
+      213: -7584480861913376281
+    second: terraintiles_128
+  - first:
+      213: 6413557986362134109
+    second: terraintiles_129
+  - first:
+      213: 6398057539353248373
+    second: terraintiles_130
+  - first:
+      213: -6621046929884707271
+    second: terraintiles_131
+  - first:
+      213: -8840935846581619057
+    second: terraintiles_132
+  - first:
+      213: 1484648361437278866
+    second: terraintiles_133
+  - first:
+      213: -7453988976172073416
+    second: terraintiles_134
+  - first:
+      213: 5487821716329480201
+    second: terraintiles_135
+  - first:
+      213: 5945987771398391030
+    second: terraintiles_136
+  - first:
+      213: 5774194578222762653
+    second: terraintiles_137
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: terraintiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2ecc8d5b3e20d10800000000000000
+      internalID: 2090483547219223230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e287c82197d1590800000000000000
+      internalID: -7701866667160621540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0032aeeca75cb9550800000000000000
+      internalID: 6168741245862159104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54928419317aa2890800000000000000
+      internalID: -7481984128439015099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24c4a4fa55572eb0800000000000000
+      internalID: -4744729833271671766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e040506b80411e8b0800000000000000
+      internalID: -5124792873324837874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea905f2d9d37cc290800000000000000
+      internalID: -7868787069538727506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7234984c903b5eb10800000000000000
+      internalID: 2010209663224202023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0562edf96791cb0800000000000000
+      internalID: -4892749091162402607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d77ba1d45317b80800000000000000
+      internalID: -8398873224792277685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a8df17965dbf460800000000000000
+      internalID: 7276644271807892113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bcb1e2ce08f7640800000000000000
+      internalID: 5079920656571419504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e26bed929b7f210800000000000000
+      internalID: 1366764601411513869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 476
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2af5e0db5d8fee0800000000000000
+      internalID: -1226995890491776309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190a85fa6e006b060800000000000000
+      internalID: 6968758464186720401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcc117f2a6941280800000000000000
+      internalID: -9073461722570699560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb003c59f21d9cc0800000000000000
+      internalID: -3702782456425870370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_17
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99dcd89ee40972e0800000000000000
+      internalID: -2127663926142510691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d3da99a9cd11700800000000000000
+      internalID: 509430789430918435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25b30138c9942ac0800000000000000
+      internalID: -3880807893791689426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9536a26e0fce852f0800000000000000
+      internalID: -983775999182609575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf22227b80956860800000000000000
+      internalID: 7522577681181978549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ec8cb8bba5897a0800000000000000
+      internalID: -6370241911364989347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_23
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649efe70e73317a10800000000000000
+      internalID: 1905360733746489670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e8e9b3913dc9670800000000000000
+      internalID: 8546938298170248841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338e7741eb898c9c0800000000000000
+      internalID: -3906704734589294541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f9a604797a094f0800000000000000
+      internalID: -823974463746171073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_27
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 440
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c91923aaa5b3e880800000000000000
+      internalID: -8582816720351585856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017db242ce76b05d0800000000000000
+      internalID: -3095266054970288368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa99e2adeffb0d0800000000000000
+      internalID: -3404722580230657366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7871b2042b04c2150800000000000000
+      internalID: 5849121150372353927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc76960d9ad38a80800000000000000
+      internalID: -8465682506571154178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48f82815b7493b80800000000000000
+      internalID: -8414615585645070259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bbaf43b6b38d290800000000000000
+      internalID: -7865471417566184704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66f18f0e00af0aa0800000000000000
+      internalID: -6192554980360980886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_35
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcd3d318b22a1820800000000000000
+      internalID: 2889660284913573042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a27054f39aa9240800000000000000
+      internalID: 4799334442122816141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_37
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244c7845bbd5f6f80800000000000000
+      internalID: -8111161344712522686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d51fd651cf9aab0800000000000000
+      internalID: -4996185142621807206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_39
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffb1e0bdb9c90fa0800000000000000
+      internalID: -5833910025728180240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_40
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6623129fe142c0290800000000000000
+      internalID: -7922917929004223898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_41
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 404
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da0f9d61349c5410800000000000000
+      internalID: 1467210518629386964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ac0805e46953c20800000000000000
+      internalID: 3185617574536727068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dc3e13023e2a640800000000000000
+      internalID: 5089880256297553182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f304b5acef44ec20800000000000000
+      internalID: 3234798310169773041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_45
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40331cea1fdc33c50800000000000000
+      internalID: 6643880313204323076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d47c309fcb1e4d00800000000000000
+      internalID: 958734348968555731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8008dbdb1c127ce0800000000000000
+      internalID: -1409032827435482994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65416317f1be33f20800000000000000
+      internalID: 3401320663870739542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_49
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5f9f7f80a451f40800000000000000
+      internalID: 5698542305887778223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebff22d8b0a792ca0800000000000000
+      internalID: -6041163235109699650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_51
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf403f6ff36fb910800000000000000
+      internalID: 1855311520233181122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c082c9a74b5b27f20800000000000000
+      internalID: 3418994853883422732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_53
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889cfa2c9df80ed00800000000000000
+      internalID: 999957282713225608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_54
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b421433f2502430800000000000000
+      internalID: 3756093293731138447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_55
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 368
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0d0ba33465d7de0800000000000000
+      internalID: -1333815067884334910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2887721662ee540800000000000000
+      internalID: 5039007231790056136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_57
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0b4fb6963aa86f0800000000000000
+      internalID: -681552720415117116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9e0b5e9f1cd7fe0800000000000000
+      internalID: -1189581447511348748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006e5208948776ae0800000000000000
+      internalID: -1556142889155303936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_60
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4913b97ce896eda20800000000000000
+      internalID: 3089022456377848212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1533fcef9713e7f0800000000000000
+      internalID: -584597550985431780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63d18aeda366ae40800000000000000
+      internalID: 5667326779707216746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_63
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad97cac8897b27a50800000000000000
+      internalID: 6517473476581554650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_64
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211fa364863028290800000000000000
+      internalID: -7889739850809937646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_65
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f54089cab5d3d790800000000000000
+      internalID: -7506421155675224591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b2c78f29b110880800000000000000
+      internalID: -8646599491526579356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_67
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f060ef9e2417f30800000000000000
+      internalID: 4571508669514387323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_68
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed521e1146f378a0800000000000000
+      internalID: -6308427893478105630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_69
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657baf66805d3caa0800000000000000
+      internalID: -6141831234739062954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417b443ce5c27bd20800000000000000
+      internalID: 3294150437959415572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_71
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dab2df882941880800000000000000
+      internalID: -8641120667956433564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_72
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8c135d5f209b7e0800000000000000
+      internalID: -1749363725389674269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_73
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cca1281d382cd80800000000000000
+      internalID: -8231872233025647498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_74
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed59a91ef2584fa0800000000000000
+      internalID: -5816307667443294741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_75
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1464e974201bf6c0800000000000000
+      internalID: -4108672486195567590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a352c703c0a51c40800000000000000
+      internalID: 5482464880902689699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_77
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7ef793572b5e810800000000000000
+      internalID: 1794036243122612135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_78
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b9a6ec23e9b1920800000000000000
+      internalID: 2962135120974879546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_79
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff6022bae8fc0bd0800000000000000
+      internalID: -2662479592788299789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c783d6daffcd56f00800000000000000
+      internalID: 1109535873901082748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_81
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43dd1372666625a0800000000000000
+      internalID: -6546432435312274610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_82
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320c54fcc2ca5ad50800000000000000
+      internalID: 6747988925140549667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_83
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f318a24c6a56d8a80800000000000000
+      internalID: -8462996357829197505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_84
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa58a15d889a85fa0800000000000000
+      internalID: -5811708913965693526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_85
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f579a25e91c15e00800000000000000
+      internalID: 1031818675380385268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_86
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d206ad4d05ad26c0800000000000000
+      internalID: -4166492603691957546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_87
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83640e1886213f670800000000000000
+      internalID: 8571214755881043512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_88
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5378707e710445c0800000000000000
+      internalID: -4232256107256974502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_89
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0331073e5f890e720800000000000000
+      internalID: 2873464744112558896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379629813603cd140800000000000000
+      internalID: 4745721309513804147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_91
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2147c35a99b3b8890800000000000000
+      internalID: -7454799227093486574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_92
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1994d988842fd63f0800000000000000
+      internalID: -905801556688025199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_93
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521ebc4cab0ba4960800000000000000
+      internalID: 7587070838471123237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_94
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a684415b3e737f360800000000000000
+      internalID: 7203287580137506922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_95
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2de47f5bb76abb60800000000000000
+      internalID: 7762630962184514861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_96
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb879dd9738fec70800000000000000
+      internalID: 9002558739568888753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_97
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcef364043bd9f50800000000000000
+      internalID: 6889860093584600254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c5cb9c7b1389370800000000000000
+      internalID: 8329462176255073300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_99
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d36c496e7182bbe0800000000000000
+      internalID: -1462964549009513520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_100
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8c358d9f74a57b0800000000000000
+      internalID: -5234792478462981894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_101
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7c3f2e1f7a7c6d0800000000000000
+      internalID: -2970220771890968580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_102
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7dae11b1fdf6630800000000000000
+      internalID: 3922599107820705785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_103
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625869f4d1cceddb0800000000000000
+      internalID: -4765146929450023642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c33b4ddb6049550800000000000000
+      internalID: 6166561202164153431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_105
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275357400dc7e24f0800000000000000
+      internalID: -851606046656613006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_106
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59f97e7d0842a880800000000000000
+      internalID: -8601233115530528421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_107
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08312019e1a1ec50800000000000000
+      internalID: 6692808543619332111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_108
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b861630345b9c60800000000000000
+      internalID: 7825941343528979241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_109
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eb2a4c722ff4720800000000000000
+      internalID: 2832748943255977502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_110
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f6da364220e3150800000000000000
+      internalID: 5854118920942612298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_111
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cef57b494b6a140800000000000000
+      internalID: 4730667009423961187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_112
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916be48949d9d7a90800000000000000
+      internalID: -7314516958243801575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_113
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b5295806268ab20800000000000000
+      internalID: 3145872506415635222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_114
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde10e8c8c585dce0800000000000000
+      internalID: -1381050613309104419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_115
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8974f8bcc1dab0de0800000000000000
+      internalID: -1365807722790959208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_116
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a33dea59ba5e2a40800000000000000
+      internalID: 5345309559876301728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_117
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88b67a615635cdf0800000000000000
+      internalID: -160662488395368307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563cd3d61b9325d90800000000000000
+      internalID: -7110557427459832987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_119
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c979d056b1e2d8af0800000000000000
+      internalID: -392606897316980836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_120
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e029c6b8585aba490800000000000000
+      internalID: -7733905942090313202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_121
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51c029a8cac85700800000000000000
+      internalID: 529395919395799387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a405a705cba9cb1d0800000000000000
+      internalID: -3333619490566287286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_123
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd8fd5e8ae7d3720800000000000000
+      internalID: 2827555404934778291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_124
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9bec9d50b55a1a0800000000000000
+      internalID: -6798927981758727717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_125
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc086961413aa5420800000000000000
+      internalID: 2619585439943000267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_126
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cce31bbca826b8a0800000000000000
+      internalID: -6289795107238187840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_127
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185cef39d5f17c1e0800000000000000
+      internalID: -2177737408034978431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_128
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e997e327d28eb690800000000000000
+      internalID: -7584480861913376281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_129
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e0c731209810950800000000000000
+      internalID: 6413557986362134109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_130
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57209a50f677ac850800000000000000
+      internalID: 6398057539353248373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_131
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9360807a5e05d14a0800000000000000
+      internalID: -6621046929884707271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f863c7650bfae4580800000000000000
+      internalID: -8840935846581619057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_133
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292b5d791d78a9410800000000000000
+      internalID: 1484648361437278866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_134
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ef593e48c1e8890800000000000000
+      internalID: -7453988976172073416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9004e7876c8a82c40800000000000000
+      internalID: 5487821716329480201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_136
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f48409ff54648250800000000000000
+      internalID: 5945987771398391030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terraintiles_137
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a44fa306f022050800000000000000
+      internalID: 5774194578222762653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
