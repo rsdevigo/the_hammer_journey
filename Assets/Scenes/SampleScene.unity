@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 22904853}
   - component: {fileID: 22904852}
   - component: {fileID: 22904855}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -153,11 +153,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 22904846}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.827, y: -2.598, z: -1.9746094}
+  m_LocalPosition: {x: 5.235, y: -2.494, z: -1.9746094}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 924247545}
   - {fileID: 107910950}
+  - {fileID: 1506610355}
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -173,6 +174,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0727c565ac4a51e468ce5733927f4457, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  startTimeBtwAttack: 1
+  timeBtwAttack: 0
+  startTimeBtwBlock: 1
+  timeBtwBlock: 0
 --- !u!114 &22904849
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -282,7 +287,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: 933f0fb2e9221d245ba74665cf4cd36b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -363,7 +368,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.13573623, y: 0.12515926}
+  m_Offset: {x: 0.12858844, y: 0.12515926}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -374,7 +379,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.6309333, y: 0.5621815}
+  m_Size: {x: 0.5251441, y: 0.5621815}
   m_EdgeRadius: 0
 --- !u!50 &22904854
 Rigidbody2D:
@@ -410,13 +415,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 30
+  wallSlideSpeed: 0.5
   jumpForce: 7
+  isBlocking: 0
   _currentVelocity: {x: 0, y: 0}
   _groundCheckPosition: {fileID: 924247545}
   _groundedRadius: 0.1
   _groundMask:
     serializedVersion: 2
     m_Bits: 768
+  _wallCheckPosition: {fileID: 107910950}
+  _wallLineSize: 0.13
+  _wallMask:
+    serializedVersion: 2
+    m_Bits: 512
+  _attackCheckPosition: {fileID: 1506610355}
+  _attackRadius: 0.14
+  _attackMask:
+    serializedVersion: 2
+    m_Bits: 1024
 --- !u!1 &107910949
 GameObject:
   m_ObjectHideFlags: 0
@@ -426,7 +443,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 107910950}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: WallCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1948,7 +1965,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 924247545}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: GroundCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2407,6 +2424,36 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1506610354
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1506610355}
+  m_Layer: 10
+  m_Name: AttackCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &1506610355
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1506610354}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.116, y: -0.039, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 22904847}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1892647403
 GameObject:
