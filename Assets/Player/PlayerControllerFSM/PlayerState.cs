@@ -30,6 +30,15 @@ public class PlayerState : State
   public override void Update()
   {
     base.Update();
+    if (_playerController.isHited)
+    {
+      _fsm.SetCurrentState(_fsm.GetState((int)PlayerStatesEnum._HITED_));
+    }
+
+    if (_playerController.isDead)
+    {
+      _fsm.SetCurrentState(_fsm.GetState((int)PlayerStatesEnum._DEAD_));
+    }
   }
 
   public override void FixedUpdate()

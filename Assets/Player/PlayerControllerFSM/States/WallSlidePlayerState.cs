@@ -24,11 +24,13 @@ public class WallSlidePlayerState : PlayerState
   public override void Enter()
   {
     base.Enter();
+    _playerController._rigidBody.gravityScale = 0;
   }
 
   public override void Exit()
   {
     base.Exit();
+    _playerController._rigidBody.gravityScale = 1;
   }
 
   public override void FixedUpdate()

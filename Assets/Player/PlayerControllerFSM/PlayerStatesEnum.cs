@@ -6,5 +6,7 @@
   _INAIR_,
   _ATTACK_,
   _BLOCK_,
-  _WALLSLIDING_
+  _WALLSLIDING_,
+  _HITED_,
+  _DEAD_
 }
