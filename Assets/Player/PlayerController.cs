@@ -14,7 +14,22 @@ public class PlayerController : NetworkBehaviour
   [SerializeField] private float wallSlideSpeed = 0.5f;
   [SerializeField] private float jumpForce;
 
-  [SerializeField] public bool isBlocking;
+  [SyncVar(hook = nameof(SyncBlocking))] private bool _isBlocking;
+  [SerializeField]
+  public bool isBlocking
+  {
+    get
+    {
+      return _isBlocking;
+    }
+    set
+    {
+      if (hasAuthority)
+      {
+        CmdBlocking(value);
+      }
+    }
+  }
   [SyncVar(hook = nameof(SyncHealth))] private int _health;
 
   public int health
@@ -342,5 +357,18 @@ public class PlayerController : NetworkBehaviour
   private void CmdDead(bool value)
   {
     SyncDead(_isDead, value);
+  }
+
+  private void SyncBlocking(bool oldValue, bool newValue)
+  {
+    Debug.Log(netId);
+    Debug.Log(newValue);
+    _isBlocking = newValue;
+  }
+
+  [Command]
+  private void CmdBlocking(bool value)
+  {
+    SyncBlocking(_isBlocking, value);
   }
 }

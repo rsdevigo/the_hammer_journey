@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BlockPlayerState : AbilityPlayerState
 {
-  private float blockDuration = 0.4f;
+  private float blockDuration = 20f;
   public BlockPlayerState(PlayerStateMachine fsm, PlayerController playerController, string animatorBool) : base(fsm, playerController, animatorBool)
   {
   }

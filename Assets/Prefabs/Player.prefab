@@ -329,11 +329,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   syncMode: 0
-  syncInterval: 0.1
+  syncInterval: 0
   speed: 30
   wallSlideSpeed: 0.7
   jumpForce: 7
-  isBlocking: 0
+  timeToResetHealth: 2
   _currentVelocity: {x: 0, y: 0}
   _groundCheckPosition: {fileID: 6566248166373836899}
   _groundedRadius: 0.1
