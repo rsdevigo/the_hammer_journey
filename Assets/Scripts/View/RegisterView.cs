@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-public class LoginView : MonoBehaviour
+
+public class RegisterView : MonoBehaviour
 {
   [SerializeField] public InputField usernameInputField;
   [SerializeField] public InputField passwordInputField;
@@ -17,29 +18,23 @@ public class LoginView : MonoBehaviour
     }
   }
 
-  // Update is called once per frame
-  void Update()
+  public void OnBackButtonPressed()
   {
-
+    SceneManager.LoadScene("Login");
   }
 
   public void OnRegisterButtonPressed()
   {
-    SceneManager.LoadScene("Register");
-  }
-
-  public void OnLoginButtonPressed()
-  {
-    ActionResult<User> action = LoginController.DoLogin(usernameInputField.text, passwordInputField.text);
-    if (!action.hasError)
+    ActionResult<User> result = LoginController.DoRegister(usernameInputField.text, passwordInputField.text);
+    if (result.hasError)
     {
-      PlayerPrefs.SetInt("user.id", action.item.Id);
-      PlayerPrefs.SetString("user.username", action.item.Username);
-      SceneManager.LoadScene("MainMenu");
+      errorMessageText.text = result.error;
     }
     else
     {
-      errorMessageText.text = action.error;
+      PlayerPrefs.SetInt("user.id", result.item.Id);
+      PlayerPrefs.SetString("user.username", result.item.Username);
+      SceneManager.LoadScene("MainMenu");
     }
   }
 }

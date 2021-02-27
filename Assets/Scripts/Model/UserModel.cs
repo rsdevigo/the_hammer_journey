@@ -11,4 +11,18 @@ public static class UserModel
     return DataService.instance._connection.Table<User>().Where(x => x.Username == username).FirstOrDefault();
   }
 
+  public static User Create(string username, string password)
+  {
+    User user = new User() { Username = username, Password = password };
+    int count = DataService.instance._connection.Insert(user);
+    if (count == 0)
+    {
+      return null;
+    }
+    else
+    {
+      return DataService.instance._connection.Table<User>().Where(x => x.Username == username).FirstOrDefault();
+    }
+  }
+
 }

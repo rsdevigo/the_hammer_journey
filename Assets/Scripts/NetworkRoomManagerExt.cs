@@ -73,6 +73,11 @@ public class NetworkRoomManagerExt : NetworkRoomManager
 #endif
   }
 
+  public override void OnStopHost()
+  {
+    GetComponent<NetworkDiscoveryExt>().Shutdown();
+    base.OnStopHost();
+  }
   public override void OnGUI()
   {
     base.OnGUI();

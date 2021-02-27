@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class ActionResult<T>
 {
-  public string status;
+  public string status = "SUCCESS";
   public string error;
-  public bool hasError;
+  public bool hasError = false;
   public T item;
 }
